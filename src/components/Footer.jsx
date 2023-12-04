@@ -18,7 +18,7 @@ const Footer = () => {
             >
           </li>
           <li className="footer__menu-item">
-            <NavLink to="/Options" className="footer__menu-link">Más opciones</NavLink>
+            <NavLink to="/Options" className="footer__menu-link">Multijugador</NavLink>
           </li>
         </ul>
       </nav>
